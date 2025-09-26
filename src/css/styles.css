@@ -11,3 +11,7 @@
 
 /* Sections style */
 @import url('./header.css');
+@import url('./form.css');
+@import url('./gallery.css');
+@import url('./iziToast-custom.css');
+@import url('./loader.css');
